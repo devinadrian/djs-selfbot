@@ -1,2 +1,2 @@
 # djs-selfbot
-kontol kuda
+kurang tau
